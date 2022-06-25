@@ -21,7 +21,7 @@
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/django.png" height="60" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="60" /></a>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linetlucy-genchabe&theme=radical)](https://git.io/streak-stats)
 
 <!--
 **linetlucy-genchabe/linetlucy-genchabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
