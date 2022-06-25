@@ -1,25 +1,26 @@
 ### Hi there 👋
 
-#### I'm a software developer who's passionate about finding solutions to problems.
+
+#### I'm a software developer who's passionate about finding solutions to problems.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
 ## Find me around the web!
 
-<a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="30" /></a>
-<a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="30" /></a>
+<a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
+<a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
 
 
 
 ## Languages and databases
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/python.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/angularjs.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/bootstrap.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/javascript.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/python.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/angularjs.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/bootstrap.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/javascript.png" height="40" /></a>
 
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/html-5.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/css3.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/flask.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/django.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/html-5.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/css3.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/flask.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/django.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="40" /></a>
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=linetlucy-genchabe&theme=radical)](https://git.io/streak-stats)
  -->
