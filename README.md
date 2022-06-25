@@ -1,6 +1,26 @@
 ### Hi there 👋
 
 #### I'm a software developer who's passionate about finding solutions to problems.
+## Find me around the web!
+
+<a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="100" /></a>
+<a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="100" /></a>
+
+
+
+## Languages and databases
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/python.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/angularjs.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/bootstrap.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/javascript.png" height="100" /></a>
+
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/html-5.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/css3.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/flask.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/2x/django.png" height="100" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/postgreesql.png" height="100" /></a>
+
 
 
 <!--
