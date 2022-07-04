@@ -3,6 +3,8 @@
 
 #### I'm linetlucy and i'm a Software Developer!
 
+###Find me around the web!
+
 <a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
 <a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
