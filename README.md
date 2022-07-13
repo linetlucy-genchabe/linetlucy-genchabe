@@ -1,15 +1,10 @@
 ### Hi 👋 , 
 
 
-#### I'm linetlucy and i'm a Software Developer!
-
-### Find me around the web!
-
-<a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
-<a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
+#### I'm linetlucy and i'm a Software Developer who's passionate about finding quick and accurate solutions to problems and i'm always seeking to improve my skills!
 
 
+<hr>
 
 ## Languages and databases
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/python.png" height="40" /></a>
@@ -30,6 +25,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linetlucy-genchabe&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linetlucy-genchabe&layout=compact)](https://github.com/linetlucy-genchabe/linetlucy-genchabe)
+
+
+### Find me around the web!
+
+<a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
+<a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
+
 <!--
 **linetlucy-genchabe/linetlucy-genchabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
