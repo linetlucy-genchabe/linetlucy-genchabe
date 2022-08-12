@@ -1,7 +1,7 @@
-### Hi 👋 , 
+### Hi 👋 
 
 
-#### I'm linetlucy and i'm a Software Developer who's passionate about finding quick and accurate solutions to problems and i'm always seeking to improve my skills!
+#### I'm linetlucy and i'm a Full Stack Software Developer who's passionate about finding quick and accurate solutions to problems and i'm always seeking to improve my skills!
 
 
 <hr>
