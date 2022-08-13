@@ -31,7 +31,7 @@
 
 <a href="https://www.linkedin.com/in/linetlucygenchabe/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" height="40" /></a>
 <a href="https://github.com/linetlucy-genchabe" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/2x/github.png" height="40" /></a>
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" height="40" /></a> -->
 
 <!--
 **linetlucy-genchabe/linetlucy-genchabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
