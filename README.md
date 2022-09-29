@@ -4,7 +4,7 @@
 #### I'm linetlucy and i'm a Full Stack Software Developer who's passionate about finding quick and accurate solutions to problems and i'm always seeking to improve my skills!
 
 
-<hr>
+
 
 ## Languages and databases
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/color/2x/python.png" height="40" /></a>
